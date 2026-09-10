@@ -5,7 +5,7 @@ MISHA(1)                          User Commands                          MISHA(1
        misha - builds and fixes things
 
 <b>SYNOPSIS</b>
-       misha [{--build} | {--fix}] &lt;system&gt;
+       misha [--build | --fix] &lt;system&gt;
 
 <b>DESCRIPTION</b>
        Backend and systems work: services that take real traffic, the
