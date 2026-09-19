@@ -53,8 +53,9 @@ MISHA(1)                          User Commands                          MISHA(1
               setups written straight into the game.
 
        <a href="https://github.com/mishan/videomixer">videomixer</a>
-              Live video stream mixer on GStreamer, from The Meet Group.
-              Revived 2026: pipeline hang diagnosed and fixed, tests added.
+              Composite live RTMP sources into one H.264/AAC stream, with
+              an HTTP API for adding, moving and resizing picture-in-picture
+              layers on the fly
 
        <a href="https://github.com/mishan/crack-attack-web">crack-attack-web</a>
               Tetris Attack in the browser, with a multiplayer lobby and an
