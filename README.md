@@ -29,6 +29,12 @@ MISHA(1)                          User Commands                          MISHA(1
               Set intersection on Redis Cluster without CROSSSLOT. Found a
               slot-hashing bug on the way; fixed in ioredis and node-redis.
 
+       <a href="https://github.com/mishan/no-ai-marks">no-ai-marks</a>
+              CI check for what a contribution policy forbids in a commit:
+              AI attribution trailers and bot identities, and hidden
+              Unicode — Trojan Source, homoglyphs, smuggled text. Explicit
+              markers only; it never guesses who wrote the code.
+
        <a href="https://github.com/mishan/thinksynth">thinksynth</a>
               Modular software synthesizer and algorithmic composition
               engine in one graph language. C++/GTK4 on the desktop,
