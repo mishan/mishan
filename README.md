@@ -53,9 +53,8 @@ MISHA(1)                          User Commands                          MISHA(1
               setups written straight into the game.
 
        <a href="https://github.com/mishan/videomixer">videomixer</a>
-              Composite live RTMP sources into one H.264/AAC stream, with
-              an HTTP API for adding, moving and resizing picture-in-picture
-              layers on the fly
+              Mix live RTMP sources into one RTMP stream, with an HTTP API
+              for layouts, transitions, and source control.
 
        <a href="https://github.com/mishan/crack-attack-web">crack-attack-web</a>
               Tetris Attack in the browser, with a multiplayer lobby and an
