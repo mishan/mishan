@@ -38,12 +38,17 @@ MISHA(1)                          User Commands                          MISHA(1
        <a href="https://github.com/mishan/thinksynth">thinksynth</a>
               Modular software synthesizer and algorithmic composition
               engine in one graph language. C++/GTK4 on the desktop,
-              WebAssembly in the browser. Since 2002.
+              WebAssembly in the browser. Since 2002. <a href="https://mishan.github.io/thinksynth/">Try it.</a>
 
        <a href="https://github.com/mishan/cairo-canvas2d">cairo-canvas2d</a>
               cairo's API, recorded in C/C++ and replayed on a Canvas2D:
               draw through cairo from WebAssembly with no rasterizer, no
               pixman, no freetype. How thinksynth got into the browser.
+
+       <a href="https://github.com/mishan/mullion">mullion</a>
+              A tiling layout for a page you already have: splits, tabs, a
+              drawer and key bindings, adopting the document rather than
+              rendering into containers. No dependencies. <a href="https://mishan.github.io/mullion/">Try it.</a>
 
        <a href="https://github.com/mishan/liverykit">liverykit</a>, <a href="https://github.com/mishan/assetto-mcp">assetto-mcp</a>
               Assetto Corsa liveries from code — designs target panels
