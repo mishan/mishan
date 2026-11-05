@@ -35,7 +35,7 @@ MISHA(1)                          User Commands                          MISHA(1
               check what it finds. Screenshots, accessibility checks and
               tests for scripts and CI too.
 
-       <a href="https://github.com/mishan/assetto-mcp">assetto-mcp</a>, <a href="https://github.com/mishan/liverykit">liverykit</a>
+       <a href="https://github.com/mishan/telemetrist">telemetrist</a>, <a href="https://github.com/mishan/liverykit">liverykit</a>
               An MCP server that makes an AI assistant your race engineer:
               live telemetry, corner-by-corner lap analysis, setups written
               straight into the game. And Assetto Corsa liveries from code,
