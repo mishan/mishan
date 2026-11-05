@@ -24,10 +24,12 @@ MISHA(1)                          User Commands                          MISHA(1
               Set intersection on Redis Cluster without CROSSSLOT. Found a
               slot-hashing bug on the way; fixed in ioredis and node-redis.
 
-       <a href="https://github.com/mishan/hxd-ng">hxd-ng</a>, <a href="https://github.com/mishan/hx-ng">hx-ng</a>
-              A Hotline server in Rust that serves the 1990s wire and a new
-              mobile-first one from the same rooms: chat, voice, video,
-              portable identity.
+       <a href="https://github.com/mishan/gtkhx">gtkhx</a>, <a href="https://github.com/mishan/hxd-ng">hxd-ng</a>, <a href="https://github.com/mishan/hx-ng">hx-ng</a>
+              Hotline, then and now. A client begun in C in 2000, now GTK 4
+              and largely Rust, with voice and video chat. A server in Rust
+              that serves the 1990s wire and a new mobile-first one from the
+              same rooms: chat, voice, video, portable identity. And a
+              browser client for the new one.
 
        <a href="https://github.com/mishan/shotbox">shotbox</a>
               Eyes and hands for AI agents on real GUI programs: a sealed
@@ -35,16 +37,19 @@ MISHA(1)                          User Commands                          MISHA(1
               check what it finds. Screenshots, accessibility checks and
               tests for scripts and CI too.
 
-       <a href="https://github.com/mishan/telemetrist">telemetrist</a>, <a href="https://github.com/mishan/liverykit">liverykit</a>
-              An MCP server that makes an AI assistant your race engineer:
-              live telemetry, corner-by-corner lap analysis, setups written
-              straight into the game. And Assetto Corsa liveries from code,
-              aimed at panels measured from the car's own model.
+       <a href="https://github.com/mishan/telemetrist">telemetrist</a>, <a href="https://github.com/mishan/liverykit">liverykit</a>, <a href="https://github.com/mishan/acsm-champctl">acsm-champctl</a>, <a href="https://github.com/mishan/assetto-ts">assetto-ts</a>
+              Sim-racing tools. An MCP server that makes an AI assistant
+              your race engineer: every lap recorded, where you lose time,
+              setups A/B-tested in the game. Liveries from code, aimed at
+              panels measured from the car's own model. The software that
+              runs a racing league's championships, incidents and replays
+              included. And the seven TypeScript libraries on npm under
+              them.
 
        <a href="https://github.com/mishan/thinksynth">thinksynth</a>
               Modular software synthesizer and algorithmic composition
               engine in one graph language. C++/GTK4 on the desktop,
-              WebAssembly in the browser. Since 2002. <a href="https://mishan.github.io/thinksynth/">Try it.</a>
+              WebAssembly in the browser. Since 2002. <a href="https://thinksynth.org/">Try it.</a>
               What fell out of it: <a href="https://github.com/mishan/cairo-canvas2d">cairo-canvas2d</a>, cairo's API
               replayed on a Canvas2D from WebAssembly; <a href="https://github.com/mishan/mullion">mullion</a> and
               <a href="https://github.com/mishan/mullion-gtk">mullion-gtk</a>, one tiling layout for web pages and GTK 4.
