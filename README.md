@@ -10,8 +10,12 @@ MISHA(1)                          User Commands                          MISHA(1
 <b>DESCRIPTION</b>
        Backend and systems work: the services under products people use
        every day — live video, presence, messaging, the social graph — and
-       the storage, caching and infrastructure beneath them. Lately, the
-       tools that let AI agents see and drive real software.
+       the storage, caching and infrastructure beneath them. Lately, tools
+       that let AI agents measure their work instead of guessing: user
+       interfaces checked for accessibility, flicker and latency; designs
+       checked for fit on a car's 3D model; music measured for loudness
+       and balance as it's written; car setups A/B-tested from live
+       telemetry.
 
        Linux since 1999. Debian developer, emeritus.
 
